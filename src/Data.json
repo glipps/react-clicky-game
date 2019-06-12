@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "public/assets/Images/billy.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "public/assets/Images/bmo.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "public/assets/Images/finnthehuman.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "public/assets/Images/gunter.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "public/assets/Images/iceking.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "public/assets/Images/jakethedog.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "public/assets/Images/peppermintbutler.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "public/assets/Images/marcelinethevampirequeen.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "public/assets/Images/princessbubblegum.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "public/assets/Images/falmeprincess.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "public/assets/Images/scorcher.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "public/assets/Images/ash.png",
+      "clicked": false
+    }
+  ]
+  
